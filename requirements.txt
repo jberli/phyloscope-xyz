@@ -1,7 +1,2 @@
 fastapi
-netcdf4
-xarray
-rioxarray
-shapely
-pillow
 uvicorn
