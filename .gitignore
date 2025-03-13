@@ -1,4 +1,10 @@
 .venv
 .vscode
 *.tif
-xyz/ne
+
+xyz/ne1
+xyz/ne2
+xyz/hypso
+xyz/gray
+
+data/xyz-tiles
